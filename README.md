@@ -15,4 +15,4 @@ Proiect individual
 * Despre [Lambda-NFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/Lambda---NFA)
 * Despre [Transformarea lambda-NFA - NFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/Transformare-din-lambda--NFA--%C3%AEn--NFA)
 * Despre [Transformarea NFA - DFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/Transformare-din-NFA-%C3%AEn--DFA)
-* Despre [Transformarea DFA - DFA min]()
+* Despre [Transformarea DFA - DFA min](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/Transformare-din-DFA-%C3%AEn-DFA-min)
