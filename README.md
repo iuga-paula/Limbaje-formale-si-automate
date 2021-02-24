@@ -11,5 +11,5 @@ Proiect individual
 
 ## Informatii
 * Despre [DFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/DFA)  
-* Despre [NFA]()
+* Despre [NFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/NFA)
 * Despre [Lamnda-NFA]()
