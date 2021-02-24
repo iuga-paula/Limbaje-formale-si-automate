@@ -9,3 +9,7 @@ Proiect individual
 * [NFA - DFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/tree/master/NFA_DFA)
 * [Transformare DFA - DFA min](https://github.com/iuga-paula/Limbaje-formale-si-automate/tree/master/DFA_DFAmin)
 
+## Informatii
+* Despre [DFA](https://github.com/iuga-paula/Limbaje-formale-si-automate/wiki/DFA)  
+* Despre [NFA]()
+* Despre [Lamnda-NFA]()
